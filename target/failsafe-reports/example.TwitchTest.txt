@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: example.TwitchTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.701 s <<< FAILURE! - in example.TwitchTest
+example.TwitchTest.putRequest  Time elapsed: 0.604 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<ba[z]> but was:<ba[r]>
+	at example.TwitchTest.putRequest(TwitchTest.java:73)
+
